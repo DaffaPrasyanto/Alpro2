@@ -8,8 +8,10 @@ public class tugasPraktikum2 {
         }
 
         tampilan(data);
+    
         
     }
+
 
     static void tampilan(int[] data){
         System.out.println("Data yang belum terurut: "+Arrays.toString(data));
