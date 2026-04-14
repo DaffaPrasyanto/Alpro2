@@ -6,10 +6,7 @@ public class tugasPraktikum2 {
         for (int i = 0; i < 10; i++) {
             data[i] = rand.nextInt(100);
         }
-
-        tampilan(data);
-    
-        
+        tampilan(data);   
     }
 
 
